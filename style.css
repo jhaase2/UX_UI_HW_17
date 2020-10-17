@@ -1,1 +1,4 @@
-h1 { font-size: 50 px; }
+h1 { 
+    font-size: 50 px; 
+    color: blue; 
+}
